@@ -21,82 +21,20 @@ const data = [
 
 // name: 'Jonas';
 
-if (marksJonas) {
-    
-    a = 10;
-    b = 2;
-    c = 8;
-    d = 4;
-    e = 6;
-
-    var suma;
-    
-    suma = a + b + c + d + e;
-    
-    var vidurkis;
-    
-    vidurkis = suma / 5;
-    
-
-} 
-
-if (marksMaryte) { 
-
-    a = 3,
-    b = 7,
-    c = 9,
-    d = 5;
-
-    var = suma;
-
-    suma = a + b + c + d;
-
-    var vidurkis;
-
-    vidurkis = suma/4
-
-} 
-
-if (marksPetras) {
-
-    a = 7;
-    b = 7;
-    c = 7;
-
-    var suma;
-    
-    suma = a + b + c + d + e;
-    
-    var vidurkis;
-    
-    vidurkis = suma / 5;
-    
-
-}
 
 
-if (marksOna) {
+Jonas = 6
+Maryte = 6
+Petras = 7
+Ona = 8
 
-    a = 10;
-    b = 9;
-    c = 8;
-    d = 7;
-    e = 6;
+var suma;
 
-    var suma;
-    
-    suma = a + b + c + d + e;
-    
-    var vidurkis;
-    
-    vidurkis = suma / 5;
-    
-}
+suma = Jonas + Maryte + Petras + Ona;
 
+var vidurkis; 
 
+vidurkis = suma / 4;
 
+console.log(vidurkis) /* Isspaisdinau mokiniu vidurkiu vidurki. Uzduoties isspresti vienu algoritmu nemoku */
 
-
-
-
-console.log(vidurkis)
