@@ -22,15 +22,13 @@ const data = [
 // name: 'Jonas';
 
 if (marksJonas) {
-    mark = a, b, c, d, e
-
+    
     a = 10;
     b = 2;
     c = 8;
     d = 4;
     e = 6;
-    
-} else {
+
     var suma;
     
     suma = a + b + c + d + e;
@@ -39,20 +37,63 @@ if (marksJonas) {
     
     vidurkis = suma / 5;
     
+
+} 
+
+if (marksMaryte) { 
+
+    a = 3,
+    b = 7,
+    c = 9,
+    d = 5;
+
+    var = suma;
+
+    suma = a + b + c + d;
+
+    var vidurkis;
+
+    vidurkis = suma/4
+
+} 
+
+if (marksPetras) {
+
+    a = 7;
+    b = 7;
+    c = 7;
+
+    var suma;
     
-} if (marksMaryte) { 
-
-} else {
-
-} if (marksPetras) {
-
-} else {
-
-} if (marksOna) {
-
-} else {
+    suma = a + b + c + d + e;
+    
+    var vidurkis;
+    
+    vidurkis = suma / 5;
+    
 
 }
+
+
+if (marksOna) {
+
+    a = 10;
+    b = 9;
+    c = 8;
+    d = 7;
+    e = 6;
+
+    var suma;
+    
+    suma = a + b + c + d + e;
+    
+    var vidurkis;
+    
+    vidurkis = suma / 5;
+    
+}
+
+
 
 
 
