@@ -29,4 +29,6 @@ if (lowest >=2) {
     console.log('Jonas');
 }
 
+//If mokiniai Jonas Maryte Petras Ona gavo pazymius: else prasciausio pazymio mokinio vardas
+
 
