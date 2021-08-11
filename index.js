@@ -19,14 +19,15 @@ const data = [
 
 // PASTABA: jei kazkuri reikalavima atitinka daugiau nei vienas mokinys, spausdinti visus
 
-// Isspausdinti mokinio varda ir pazymi, kuris turi prasciausia pazymi
 
-// Isspausdinti mokinio varda ir pazymi, kuris turi geriausia pazymi
+// 1 - Isspausdinti mokinio varda ir pazymi, kuris turi prasciausia pazymi
 
-// Isspausdinti mokinio varda ir pazymiu vidurki, kuris turi prasciausia pazymiu vidurki
+// 2 - Isspausdinti mokinio varda ir pazymi, kuris turi geriausia pazymi
 
-// Isspausdinti mokinio varda ir pazymiu vidurki, kuris turi geriausia pazymiu vidurki
+// 3 - Isspausdinti mokinio varda ir pazymiu vidurki, kuris turi prasciausia pazymiu vidurki
 
-// Isspausdinti mokinio varda, jei jis turi pazymi 8
+// 4 - Isspausdinti mokinio varda ir pazymiu vidurki, kuris turi geriausia pazymiu vidurki
 
-// Isspausdinti mokinio varda, jei jis neturi pazymio 7
+// 5 - Isspausdinti mokinio varda, jei jis turi pazymi 8
+
+// 6 - Isspausdinti mokinio varda, jei jis neturi pazymio 7
