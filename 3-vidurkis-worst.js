@@ -23,18 +23,19 @@ const data = [
 
 
 
-Jonas = 6
-Maryte = 6
-Petras = 7
-Ona = 8
+marksVidurkisJonas = 6
+marksVidurkisMaryte = 6
+marksVidurkisPetras = 7
+marksVidurkisOna = 8
 
-var suma;
+let maziausias = 6
 
-suma = Jonas + Maryte + Petras + Ona;
+if (maziausias >= 6) {
+    console.log(maziausias)
+}
 
-var vidurkis; 
 
-vidurkis = suma / 4;
-
-console.log(vidurkis) /* Isspaisdinau mokiniu vidurkiu vidurki. Uzduoties isspresti vienu algoritmu nemoku */
-
+// If Jonas-6 , Maryte - 6 , Petras-7, Ona-8; else prasciausias vidurkis 
+//naudoti reikia duotą kintamąjį
+//pvz.: https://github.com/LauraTechnology/6-testas/blob/main/3-vidurkis-worst.js neaišku kas yra 26-29 eilutės
+//plius, jei klausiamas prasčiausiai besimokančio mokinio vidurkis, tai visų mokinių suma skamba nelogiškai :Thonk:
