@@ -16,3 +16,9 @@ const data = [
         marks: [10, 9, 8, 7, 6]
     },
 ]
+
+// 5 - Isspausdinti mokinio varda, jei jis turi pazymi 8
+
+// Maryte, Petras neturi 8
+//Jonas, Ona turi
+// 

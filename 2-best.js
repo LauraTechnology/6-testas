@@ -18,3 +18,7 @@ const data = [
 ]
 
 // 2 - Isspausdinti mokinio varda ir pazymi, kuris turi geriausia pazymi
+
+
+// If Jonas marks is 10,2,8,4,6: Jonas has the best mark
+// If Ona marks is 10,9,8,7,6: Ona has the best mark

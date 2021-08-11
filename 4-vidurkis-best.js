@@ -16,3 +16,5 @@ const data = [
         marks: [10, 9, 8, 7, 6]
     },
 ]
+
+// 4 - Isspausdinti mokinio varda ir pazymiu vidurki, kuris turi geriausia pazymiu vidurki
